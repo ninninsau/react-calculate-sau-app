@@ -33,7 +33,7 @@ export default function Home() {
         </Link>
 
         <Link to="/bmr">
-          <CardMenu showTitle="MBR (อัตราเผาผลาญ)" showPic={bmr} 
+          <CardMenu showTitle="BMR (อัตราเผาผลาญ)" showPic={bmr} 
                     showDetail="คำนวณอัตราการเผาผลาญที่ร่างกายต้องการ" />
         </Link>
 
